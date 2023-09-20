@@ -1,0 +1,51 @@
+title: "Dr. Ze Jin"
+email: jinze@iie.ac.cn
+description: > # this means to ignore newlines until "baseurl:"
+  Associate Professor (Tenure Track), Institute of Information Engineering, Chinese Academy of Sciences.
+
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+
+url: "http://zebork.org" # the base hostname & protocol for your site
+
+  #twitter_username: jekyllrb
+github_username: Zebork 
+github:
+  is_project_page: false
+
+# Build settings
+markdown: kramdown
+
+# remote_theme: pages-themes/architect@v0.2.0 
+remote_theme: pages-themes/slate@v0.2.0 
+# remote_theme: pages-themes/cayman@v0.2.0 
+
+collections:
+  episodes:
+    output: true
+  seasons:
+    output: true
+  characters:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episode"
+  - scope:
+      path: ""
+      type: "characters"
+    values:
+      layout: "character"
+  - scope:
+      path: ""
+      type: "seasons"
+    values:
+      layout: "season"
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+gems:
+  - octopress-paginate
