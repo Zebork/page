@@ -1,8 +1,8 @@
-# Introduction
+# Biography
 
 I earned my doctorate from the Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS), in July 2023. I now serve as an Tenure-Track Associate Professor at the IIE. My research primarily focuses on critical issues in cybersecurity, encompassing IoT security, cloud computing security, and access control security. I have a particular interest in identifying and understanding new design flaws and inconsistencies in real-world systems.
 
-# Educational experience
+# Educational Experience
 
 * 2023.7 - , Tenure-Track Associate Professor in Institute of Information Engineering, CAS
 * 2017-9 - 2023.7, Ph.D. in Institute of Information Engineering, CAS
@@ -11,8 +11,8 @@ I earned my doctorate from the Institute of Information Engineering (IIE), Chine
 # Publications
 
 * Xinyu Liu, Ze Jin, Jiaxi Liu, Wei Liu, Xiaoxi Wang, Qixu Liu. ANDetect: A Third-party Ad Network Libraries Detection Framework for Android Applications. the 39th Applied Computer Security Applications Conference (ACSAC 2023)
-* Xingchen Chen, Baizhu Wang, Ze Jin, Yun Feng, Xianglong Li, Xincheng Feng, Qixu Liu. Tabby: Automated Gadget Chain Detection for Java Deserialization Vulnerabilities. 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
-* Ze Jin, Luyi Xing (co-first author), Yiwei Fang, Yan Jia, Bin Yuan, and Qixu Liu. 2022. P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22)
+* Xingchen Chen, Baizhu Wang, Ze Jin, Yun Feng, Xianglong Li, Xincheng Feng, Qixu Liu. Tabby: Automated Gadget Chain Detection for Java Deserialization Vulnerabilities. 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
+* Ze Jin, Luyi Xing (co-first author), Yiwei Fang, Yan Jia, Bin Yuan, and Qixu Liu. 2022. P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)
 
 # Briefings
 
