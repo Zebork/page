@@ -10,7 +10,8 @@ I earned my doctorate from the Institute of Information Engineering (IIE), Chine
 
 # Publications
 
-* Xingchen Chen, Baizhu Wang, Ze Jin, Yun Feng, Xianglong Li, Xincheng Feng, Qixu Liu."Tabby: Automated Gadget Chain Detection for Java Deserialization Vulnerabilities," 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+* Xinyu Liu, Ze Jin, Jiaxi Liu, Wei Liu, Xiaoxi Wang, Qixu Liu. ANDetect: A Third-party Ad Network Libraries Detection Framework for Android Applications. the 39th Applied Computer Security Applications Conference (ACSAC 2023)
+* Xingchen Chen, Baizhu Wang, Ze Jin, Yun Feng, Xianglong Li, Xincheng Feng, Qixu Liu. Tabby: Automated Gadget Chain Detection for Java Deserialization Vulnerabilities. 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
 * Ze Jin, Luyi Xing (co-first author), Yiwei Fang, Yan Jia, Bin Yuan, and Qixu Liu. 2022. P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22)
 
 # Briefings
